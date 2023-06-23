@@ -1,1 +1,1 @@
-This is a repository of my profile.
+This webpage displays my portfolio.
